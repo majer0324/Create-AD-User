@@ -1,3 +1,8 @@
+''''''''''''''''''''''''''''''''''''''''''''
+'			
+'			roy.chen@sti.com.tw
+'
+
 Option Explicit
 
 Dim strPOU,strAD,strDN,strGroup
